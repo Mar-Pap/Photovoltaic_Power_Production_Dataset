@@ -1,0 +1,10 @@
+/acf
+/AR
+/Figures
+/Figures.zip
+/missing
+/res_ols
+/scatter
+# Ignore Python virtual environments
+.venv/
+venv/
